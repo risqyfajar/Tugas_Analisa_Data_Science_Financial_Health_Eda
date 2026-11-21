@@ -1,5 +1,4 @@
 # 📊 Analisis Kesehatan Keuangan Korporasi & Prediksi Kebangkrutan
-## Proyek Sains Data — Tugas Akhir Ujian Tengah Semester (UTS) & Bahan Presentasi (Pertemuan 6 & 7)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Methodology-CRISP--DM-orange.svg)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
