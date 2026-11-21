@@ -9,7 +9,7 @@
 ---
 
 ### 📌 Ringkasan Eksekutif Proyek
-Proyek ini melakukan analisis eksplorasi data (*Exploratory Data Analysis* / EDA) komprehensif untuk mendeteksi secara dini tingkat kesehatan finansial perusahaan dan risiko kebangkrutan korporasi (*Corporate Financial Distress & Bankruptcy Prediction*). Analisis ini menggunakan kerangka kerja standar industri **CRISP-DM** yang dipetakan secara runtut dari **Bab 1 hingga Bab 9** sesuai panduan resmi pelaporan UTS Program Pascasarjana.
+Proyek ini melakukan analisis eksplorasi data (*Exploratory Data Analysis* / EDA) komprehensif untuk mendeteksi secara dini tingkat kesehatan finansial perusahaan dan risiko kebangkrutan korporasi (*Corporate Financial Distress & Bankruptcy Prediction*). Analisis ini menggunakan kerangka kerja standar industri **CRISP-DM** 
 
 * **Dataset Sumber:** *Taiwan Economic Journal (TEJ)* via Kaggle (6.819 Perusahaan, 96 Fitur Keuangan).
 * **Lokasi Data:** [`DATA_SHEET/data.csv`](DATA_SHEET/data.csv)
