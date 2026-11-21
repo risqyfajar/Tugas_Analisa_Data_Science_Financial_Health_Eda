@@ -116,10 +116,6 @@ Berdasarkan seluruh temuan EDA, rancangan arsitektur pemodelan tahap selanjutnya
 │   └── heatmap_korelasi_spearman.png    <- Visualisasi matriks heatmap korelasi Spearman
 ├── financial_health_eda.ipynb           <- Jupyter Notebook lengkap hasil eksekusi Colab (22 sel)
 ├── financial_health_eda.py              <- Skrip Python murni
-├── LAPORAN_LENGKAP_EDA_UTS.html         <- Dokumen Laporan Akhir UTS (PDF-ready, Ctrl+P)
-├── LAPORAN_LENGKAP_EDA_UTS.md           <- Naskah Laporan Akhir format Markdown (Bab 1 - 9)
-├── PRESENTASI_EDA_KESEHATAN_KEUANGAN.html <- Slide Presentasi Interaktif (Fullscreen F11)
-├── RANGKUMAN_SLIDE_PRESENTASI_UTS.md    <- Outline slide presentasi & naskah pembicara
 └── README.md                            <- Dokumentasi utama proyek di GitHub
 ```
 
@@ -131,7 +127,3 @@ Berdasarkan seluruh temuan EDA, rancangan arsitektur pemodelan tahap selanjutnya
    * Buka [Google Colab](https://colab.research.google.com) lalu unggah [`financial_health_eda.ipynb`](financial_health_eda.ipynb).
    * Letakkan [`DATA_SHEET/data.csv`](DATA_SHEET/data.csv) pada folder kerja Colab.
    * Pilih menu **Runtime > Run all**.
-2. **Membuka Bahan Presentasi:**
-   * Buka [`PRESENTASI_EDA_KESEHATAN_KEUANGAN.html`](PRESENTASI_EDA_KESEHATAN_KEUANGAN.html) di peramban dan tekan **F11** untuk memulai mode presentasi interaktif.
-3. **Mencetak Laporan PDF:**
-   * Buka [`LAPORAN_LENGKAP_EDA_UTS.html`](LAPORAN_LENGKAP_EDA_UTS.html) di browser, tekan **Ctrl + P**, dan pilih **Save as PDF**.
